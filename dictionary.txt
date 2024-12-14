@@ -1,0 +1,6 @@
+brown:a color mostly defined by a darker yellow and red mixture
+cat:A feline mammal
+dog:A loyal pet and furry mammal
+mouse:a common rodent that is often eaten by a cat
+no:the negatory statement implying a disagreement has occured or a resolution is needed
+yellow:a primary color
